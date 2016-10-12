@@ -1,0 +1,434 @@
+[
+    {
+        "outputFile": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 43,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 44,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 814
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 819,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1239
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1244,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1667
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1672,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2093
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2098,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2945
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2950,
+                    "endColumn": 88,
+                    "endOffset": 3034
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3039,
+                    "endColumn": 100,
+                    "endOffset": 3135
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 100,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3140,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3543
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 3198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3548,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 3963
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3203,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 3618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3968,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4070
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3623,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4075,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4199
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3730,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4204,
+                    "endColumn": 70,
+                    "endOffset": 4270
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3859,
+                        "endColumn": 70,
+                        "endOffset": 3925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4275,
+                    "endColumn": 82,
+                    "endOffset": 4353
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3930,
+                        "endColumn": 82,
+                        "endOffset": 4008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4358,
+                    "endLine": 112,
+                    "endColumn": 12,
+                    "endOffset": 8061
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4013,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 7716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8066,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 11909
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7721,
+                        "endLine": 158,
+                        "endColumn": 12,
+                        "endOffset": 11564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 11914,
+                    "endColumn": 90,
+                    "endOffset": 12000
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 11569,
+                        "endColumn": 90,
+                        "endOffset": 11655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12005,
+                    "endColumn": 64,
+                    "endOffset": 12065
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 65,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 12070,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12225
+                },
+                "from": {
+                    "file": "/Users/Abhishek/StudioProjects/DisplayingBitmaps/Application/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1166
+                    }
+                }
+            }
+        ]
+    }
+]
